@@ -4,6 +4,7 @@
       <div class="left-half">
         <div class="row">
           <div class="col-12">
+            <h1 class="title">Vue <span>Straps</span></h1>
             <div class="circle center">
               <img src="../assets/images/romano-icon-purple.png"
                 alt="Romano Icon"
@@ -18,8 +19,8 @@
       </div>
       <div class="right-half">
         <div class="row">
-          <div class="col-md-6 div-center">
-            <h1>The Complete Front-End Package for you !</h1>
+          <div class="col-md-8 col-lg-6 div-center"> 
+            <h2>The Complete Frontend Package for you!</h2>
             <ul class="list-group">
               <li><i class="fa fa-check"></i> Vuejs 2</li>
               <li><i class="fa fa-check"></i> Sass</li>
