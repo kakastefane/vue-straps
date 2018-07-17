@@ -1,4 +1,4 @@
-# Vuejs BSC Template
+# Vue Straps Project
 
 > A Vuejs 2 | Boostrap 4 | Font-awesome 4 | Sass | Compass | Jquery | Webpack project
 
@@ -12,10 +12,10 @@ There is an initial sass structure, but feel free to leave it your way.
 
 ## Project Struture
 
-Sass  : src / assets / sass
-Vuejs : src / assets / components
-Images: src / images or static
-Jquery: src / js 
+* Sass  : src / assets / sass
+* Vuejs : src / assets / components
+* Images: src / images or static
+* Jquery: src / js 
 
 ## Build Setup
 
