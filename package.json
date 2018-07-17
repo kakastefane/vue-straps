@@ -1,7 +1,7 @@
 {
   "name": "claudio_romano",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vuejs 2 | Boostrap 4 | Font-awesome 4 | Sass | Compass | Jquery | Webpack project",
   "author": "romano <claudioromansp@gmail.com>",
   "private": true,
   "scripts": {
