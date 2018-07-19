@@ -19,7 +19,7 @@
       </div>
       <div class="right-half">
         <div class="row">
-          <div class="col-md-8 col-lg-6 div-center"> 
+          <div class="col-md-8 col-lg-6 div-center">
             <h2>The Complete Frontend Package for you!</h2>
             <ul class="list-group">
               <li><i class="fa fa-check"></i> Vuejs 2</li>
